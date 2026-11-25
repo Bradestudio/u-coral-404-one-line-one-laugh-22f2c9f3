@@ -1,8 +1,8 @@
 # One Line, One Laugh
 
 [![make.fun · u-coral-404-one-line-one-laugh-22f2c9f3](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
-[![rank](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/Bradestudio/Bradestudio-u-coral-404-one-line-one-laugh-22f2c9f3/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
-[![reward](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/Bradestudio/Bradestudio-u-coral-404-one-line-one-laugh-22f2c9f3/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![rank](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/Bradestudio/u-coral-404-one-line-one-laugh-22f2c9f3/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![reward](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/Bradestudio/u-coral-404-one-line-one-laugh-22f2c9f3/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
 
 Entry for the [make.fun bounty "One Line, One Laugh"](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3) — one original funny line, written to land on a first read.
 
